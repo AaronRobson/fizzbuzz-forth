@@ -1,0 +1,11 @@
+: FIZZBUZZ 101 1 DO  
+  TRUE
+  I 3 MOD 0 = IF ." Fizz" DROP FALSE THEN
+  I 5 MOD 0 = IF ." Buzz" DROP FALSE THEN
+  IF I . THEN
+  CR
+LOOP ;
+
+FIZZBUZZ
+
+bye
