@@ -2,4 +2,4 @@
 
 .PHONY: run
 run:
-	gforth fizzbuzz.fth
+	gforth fizzbuzz.fth -e bye
