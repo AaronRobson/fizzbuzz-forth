@@ -7,5 +7,3 @@
 LOOP ;
 
 FIZZBUZZ
-
-bye
